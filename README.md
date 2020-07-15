@@ -10,6 +10,18 @@ Este é o projeto referente ao módulo II do curso "Data Science na Prática", d
 
 
 
+Independente se você é uma pessoa que assiste ou não aos telejornais, é provável que esteja consciente de que o Brasil, infelizmente, é um país com altos índices de criminalidade. No estado do Rio de Janeiro os dados nos mostram que essa realidade pode ser ainda pior se comparado à média nacional.
+
+Hoje é possível consultar essas informações em sites oficiais do estado, pois estão disponibilizadas na Intenret. O governo do Rio de Janeiro por exemplo traz a iniciativa do [portal ISPDados](http://www.ispdados.rj.gov.br/) com essas informações.
+
+No projeto deste Módulo, faremos uma análise acerca dos indicadores estatísticos da violência no Rio, explorando algumas das variáveis fornecidas.
+
+
+
+
+
+
+
 
 
 ## **Conclusão**
