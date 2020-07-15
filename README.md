@@ -32,7 +32,7 @@ _Outliers_ são valores que divergem em demasia do restante dos dados, e que pod
 
 
 
-<img alt="Rio de Janeiro" width="40%" src="">
+<img alt="Rio de Janeiro" width="40%" src="https://user-images.githubusercontent.com/45701541/87597167-b541c780-c6c7-11ea-9ecc-bea9abe92f17.png">
 No gráfico acima, alguns dados chamam a nossa atenção, como:
 
 * Houve quase 70 meses com 500-550 homicídios dolosos registrados ao longo do período em estudo.
