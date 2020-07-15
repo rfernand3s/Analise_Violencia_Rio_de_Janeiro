@@ -22,6 +22,14 @@ No projeto deste Módulo, faremos uma análise acerca dos indicadores estatísti
 
 
 
+### <center>**Análise Estatística: O retrato da violência no RJ**
+
+<center><img alt="Rio de Janeiro" width="40%" src="https://user-images.githubusercontent.com/45701541/87477807-1f426a00-c5ff-11ea-9c15-403ea333e67d.png"></center>
+
+Nesta parte começaremos a análise estatística do nosso _dataset_. Utilizaremos o método `describe()` para nos informar acerca da distribuição dos dados e para identificarmos a presença de **outliers** em nosso conjunto de dados.
+
+_Outliers_ são valores que divergem em demasia do restante dos dados, e que podem nos levar a erros na interpretação do dataset. Uma das causas da existência de outliers podem ser erros de medição ou aquisição dos dados. 
+
 
 
 
