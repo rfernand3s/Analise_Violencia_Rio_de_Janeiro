@@ -8,6 +8,10 @@
 
 Este é o projeto referente ao módulo II do curso "Data Science na Prática", da plataforma sigmoidal.ai
 
+# **Analisando a criminalidade do Rio de Janeiro**
+
+<img alt="Rio de Janeiro" width="40%" src="https://user-images.githubusercontent.com/45701541/87468069-514bd000-c5ef-11ea-8b51-b9c1c3a6dc06.png">
+
 
 
 Independente se você é uma pessoa que assiste ou não aos telejornais, é provável que esteja consciente de que o Brasil, infelizmente, é um país com altos índices de criminalidade. No estado do Rio de Janeiro os dados nos mostram que essa realidade pode ser ainda pior se comparado à média nacional.
