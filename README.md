@@ -28,7 +28,7 @@ No projeto deste Módulo, faremos uma análise acerca dos indicadores estatísti
 
 Nesta parte começaremos a análise estatística do nosso _dataset_. Utilizaremos o método `describe()` para nos informar acerca da distribuição dos dados e para identificarmos a presença de **outliers** em nosso conjunto de dados.
 
-_Outliers_ são valores que divergem em demasia do restante dos dados, e que podem nos levar a erros na interpretação do dataset. Uma das causas da existência de outliers podem ser erros de medição ou aquisição dos dados. Para ter acesso aos resultados, clique no link do [Jupyter Notebook]() deste repositório, e confira a análise completa.
+_Outliers_ são valores que divergem em demasia do restante dos dados, e que podem nos levar a erros na interpretação do dataset. Uma das causas da existência de outliers podem ser erros de medição ou aquisição dos dados. Para ter acesso aos resultados, clique no link do [Jupyter Notebook](https://github.com/rfernand3s/Analise_Violencia_Rio_de_Janeiro/blob/master/Analisando_a_criminalidade_no_Rio_de_Janeiro.ipynb) deste repositório, e confira a análise completa.
 
 
 
