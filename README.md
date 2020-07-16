@@ -28,7 +28,7 @@ No projeto deste Módulo, faremos uma análise acerca dos indicadores estatísti
 
 Nesta parte começaremos a análise estatística do nosso _dataset_. Utilizaremos o método `describe()` para nos informar acerca da distribuição dos dados e para identificarmos a presença de **outliers** em nosso conjunto de dados.
 
-_Outliers_ são valores que divergem em demasia do restante dos dados, e que podem nos levar a erros na interpretação do dataset. Uma das causas da existência de outliers podem ser erros de medição ou aquisição dos dados. 
+_Outliers_ são valores que divergem em demasia do restante dos dados, e que podem nos levar a erros na interpretação do dataset. Uma das causas da existência de outliers podem ser erros de medição ou aquisição dos dados. Para ter acesso aos resultados, clique no link do [Jupyter Notebook]() deste repositório, e confira a análise completa.
 
 
 
@@ -49,7 +49,7 @@ A principal lição aprendida aqui foi a necessidade de se atentar a cada detalh
 
 A etapa de aquisição, tratamento e exploração dos dados é o que mais vai consumir o tempo do seu projeto, por isso é necessário dedicar a devida atenção nessa parte para não comprometer os resultados.
 
-No mais, concluímos o projeto referente ao módulo II do curso "Data Science na pratica" do sigmoidal. Este projeto proporcionou aos alunos uma visão mais clara e objetiva da importância da ciência de dados. Tratando-se de dados oficiais do governo do estado, podemos sugerir através destas análises um modelo de políticas publicas por exemplo, tendo em vista novos diretrizes nas quais os órgãos de segurança devem se focar ou otimizar seus resultados ainda mais. 
+No mais, concluímos o projeto referente ao módulo II do curso "Data Science na pratica" do sigmoidal. Este projeto proporcionou aos alunos uma visão mais clara e objetiva da importância da ciência de dados. Tratando-se de dados oficiais do governo do estado, podemos sugerir, por exemplo, um modelo de políticas publicas, tendo em vista novas diretrizes para as quais os órgãos de segurança devem se focar ou otimizar seus resultados. 
 
 Este trabalho contudo, ainda não é profundo o suficiente para tal, mas indica que é possível ser feito e que a ciência de dados é uma ferramenta para interpretação da realidade com base nos dados que são coletados.
 
